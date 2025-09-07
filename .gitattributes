@@ -167,5 +167,4 @@ public class StudentManagement {
 
         sc.close();
     }
-}# Auto detect text files and perform LF normalization
-* text=auto
+}
